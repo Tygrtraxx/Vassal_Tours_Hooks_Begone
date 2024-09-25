@@ -1,4 +1,4 @@
-version="1.12.5"
+version="1.13.*"
 tags={
 	"Fixes"
 	"Events"
@@ -6,6 +6,6 @@ tags={
 }
 name="Vassal Tour Hooks, Begone!"
 picture="thumbnail.png"
-supported_version="1.12.5"
-path="T:/Games/Steam/steamapps/workshop/content/1158310/3184626854"
+supported_version="1.13.*"
+path="C:/Documents/Paradox Interactive/Crusader Kings III/mod/vassal_tour_hooks_begone"
 remote_file_id="3184626854"
