@@ -1,4 +1,4 @@
-version="1.13.*"
+version="1.14.*"
 tags={
 	"Fixes"
 	"Events"
@@ -6,5 +6,5 @@ tags={
 }
 name="Vassal Tour Hooks, Begone!"
 picture="thumbnail.png"
-supported_version="1.13.*"
+supported_version="1.14.*"
 remote_file_id="3184626854"
